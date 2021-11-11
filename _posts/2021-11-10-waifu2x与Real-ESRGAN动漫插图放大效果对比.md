@@ -5,6 +5,7 @@ tags: 技术 图片放大
 sharing: true
 key: 8CFD3759-E431-4DCC-699E-3C2E37CB050D
 lang: zh
+permalink: 2021/11/10/waifu2xAndRealESRGANCompare.html
 ---
 # waifu2x与Real-ESRGAN动漫插图放大效果对比
 
