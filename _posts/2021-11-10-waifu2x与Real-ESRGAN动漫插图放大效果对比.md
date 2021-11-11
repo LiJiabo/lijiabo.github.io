@@ -7,8 +7,6 @@ key: 8CFD3759-E431-4DCC-699E-3C2E37CB050D
 lang: zh
 permalink: 2021/11/10/waifu2xAndRealESRGANCompare.html
 ---
-# waifu2x与Real-ESRGAN动漫插图放大效果对比
-
 ### 原图1
 
 [![IdMLuj.jpg](https://z3.ax1x.com/2021/11/10/IdMLuj.jpg)](https://imgtu.com/i/IdMLuj)
