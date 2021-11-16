@@ -1,6 +1,6 @@
 ---
 layout: article
-title: torch.autograd介绍
+title: PyTorch官方60分钟教程笔记-torch.autograd介绍
 tags: 技术 PyTorch Python 机器学习
 sharing: true
 key: 05D3E8FA-B586-A3FA-2930-5DC057C54EA0
