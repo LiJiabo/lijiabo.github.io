@@ -7,6 +7,7 @@ key: E3332F20-930B-6B0A-76B5-1D782CE9F1F4
 lang: zh
 permalink: 2021/11/10/pytorchOfficial60mTutorialNoteTensor.html
 ---
+**注意：在观看本笔记前，你应该对Python、神经网络有基本的概念上的了解**
 ```python
 import torch
 import numpy as np
