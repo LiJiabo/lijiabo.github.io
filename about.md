@@ -30,5 +30,4 @@ key: page-about
 
 欢迎关注我的微信公众号：LASTRDO
 
-[![IheNCD.jpg](https://z3.ax1x.com/2021/11/16/IheNCD.jpg)](https://imgtu.com/i/IheNCD)
-
+![qrcode_for_gh_b56053dc0388_258.jpg](https://oss.ljbmedia.top/uPic/2021/11/18/qrcode_for_gh_b56053dc0388_258.jpg)
