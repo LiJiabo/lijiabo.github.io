@@ -9,37 +9,37 @@ permalink: 2021/11/10/waifu2xAndRealESRGANCompare.html
 ---
 ### 原图1
 
-[![IdMLuj.jpg](https://z3.ax1x.com/2021/11/10/IdMLuj.jpg)](https://imgtu.com/i/IdMLuj)
+![IMG_1206](https://oss.ljbmedia.top/uPic/2021/11/18/IMG_1206.JPG)
 
 ### waifu2x
 
 ##### 模型：PAN 降噪等级：0 放大：4x 输出格式：JPEG 品质：90
 
-[![IdQDqs.jpg](https://z3.ax1x.com/2021/11/10/IdQDqs.jpg)](https://imgtu.com/i/IdQDqs)
+![IMG_1206_pan_anime_fast_noise0_4x](https://oss.ljbmedia.top/uPic/2021/11/18/IMG_1206_pan_anime_fast_noise0_4x.jpg)
 
 ### Real-ESRGAN
 
 ##### 模型：realesrgan-x4plus-anime 放大：4x 输出格式：JPEG 其他默认
 
-[![IdQLRO.jpg](https://z3.ax1x.com/2021/11/10/IdQLRO.jpg)](https://imgtu.com/i/IdQLRO)
+![IMG_1206_out](https://oss.ljbmedia.top/uPic/2021/11/18/IMG_1206_out.JPG)
 
 
 
 ### 原图2
 
-[![Idl9ot.jpg](https://z3.ax1x.com/2021/11/10/Idl9ot.jpg)](https://imgtu.com/i/Idl9ot)
+![IMG_1208](https://oss.ljbmedia.top/uPic/2021/11/18/IMG_1208.JPG)
 
 ### waifu2x
 
 ##### 模型：PAN 降噪等级：0 放大：4x 输出格式：JPEG 品质：90
 
-[![Idls6e.jpg](https://z3.ax1x.com/2021/11/10/Idls6e.jpg)](https://imgtu.com/i/Idls6e)
+![IMG_1208_pan_anime_fast_noise0_4x](https://oss.ljbmedia.top/uPic/2021/11/18/IMG_1208_pan_anime_fast_noise0_4x.jpg)
 
 ### Real-ESRGAN
 
 ##### 模型：realesrgan-x4plus-anime 放大：4x 输出格式：JPEG 其他默认
 
-[![Id178K.jpg](https://z3.ax1x.com/2021/11/10/Id178K.jpg)](https://imgtu.com/i/Id178K)
+![IMG_1208_out](https://oss.ljbmedia.top/uPic/2021/11/18/IMG_1208_out.JPG)
 
 
 
