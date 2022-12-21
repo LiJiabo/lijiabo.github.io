@@ -26,4 +26,5 @@ titles:
 key: page-links
 ---
 
-1. NS-SHAFT: [https://ns-shaft.lijiabo.top](https://ns-shaft.lijiabo.top)
+1. 是男人就下100层：[https://ns-shaft.lijiabo.top](https://ns-shaft.lijiabo.top)
+2. 猫国建设者：[https://kitten.lijiabo.top](https://kitten.lijiabo.top)
