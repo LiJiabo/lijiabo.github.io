@@ -201,6 +201,12 @@ exclude:
   - /test
   - /vendor
 
+# GitHub Pages 默认忽略点开头的目录，而 SMART Health Card 规范要求签发者公钥
+# 固定放在 /.well-known/jwks.json，所以显式 include 进来。
+# 注意：不要改用 .nojekyll —— 那会禁用 Jekyll，整个站点会坏掉。
+include:
+  - .well-known
+
 defaults:
   - scope:
       path: ""
